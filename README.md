@@ -45,6 +45,8 @@ The 1,400 program steps are organized as follows:
 
 If LBL A is over 50 steps, it can overlap over B, and so on.
 
+
+
 Solver example - Pythagorean formula:
 
 Since a^2 + b^2 = c^2, then a^2 + b^2 - c^2=0
@@ -102,6 +104,8 @@ Solve for B
 
 Result is 4
 
+
+
 Integration:
 
 B00 LBL B
@@ -115,6 +119,8 @@ Put lower limit 0 and upper limit 10 on the stack.
 Integrate X.
 
 Result is 333.3333
+
+
 
 Monte Carlo program to calculate PI:
 
