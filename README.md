@@ -1,6 +1,12 @@
 # 32LC
 32LC Calculator Project
 
+Beta version 0.92 notes:
+
+Added RCL+, RCL-, RCL*, RCL/
+Added INPUT command
+Added flags - program will automatically halt on overflow.  flag 5 has no effect, since it is not implemented yet.
+
 Beta version 0.9 notes
 
 Advantage of C implementation is speed, but not using calc. ROM means some aspects of the calculator may seem different than original.  
